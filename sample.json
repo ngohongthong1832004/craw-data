@@ -1,0 +1,535 @@
+[
+    {
+        "type": "Rau Củ",
+        "data": [
+            {
+                "name": "Xà lách Mỹ hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_CzUUJb8hqJLMkdJSghkAuGaT.jpg",
+                "price": "Liên hệ",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            
+            {
+                "name": "Khoai lang Nhật hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_EVgUTsE1ipZN6UaPzBlm9opz.jpg",
+                "price": "51,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Đậu cove Nhật hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_c5GZwO6us00iCHLp3DHqVlC5.jpg",
+                "price": "35,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cần tây hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_0r2FqJZobV9cG1oxnyGhmD73.jpg",
+                "price": "82,500₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cải ngọt hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_IuwIRr5BaNmIv02vUneImBc4.jpg",
+                "price": "38,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cải ngồng hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_trSuojjqZTAdHNvXUoYFrmAY.jpg",
+                "price": "35,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cà chua mini socola hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_4FBSTPofC4MXwhrb9anxTwKg.jpg",
+                "price": "35,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cà chua mini đỏ hữu cơ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_dDmP4dWhTuJeVRzZp2XcbTLj.jpg",
+                "price": "29,800₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Bí đỏ non hữu cơ USDA Food King",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_98bS0LTSpj4tHZQYRvRJ7VCs.jpg",
+                "price": "43,800₫",
+                "size": [
+                    "1kg",
+                    "500 gram",
+                    "200 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Bí đỏ hữu cơ Food King",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_9V7wEGaf5QgsTomGFU6W346c.jpg",
+                "price": "140,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram",
+                    "200 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Bắp nếp hữu cơ USDA Food King",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220322_zvxxFVlloyt9fuPzuCjsbRmN.jpg",
+                "price": "60,500₫",
+                "size": [
+                    "1kg",
+                    "500 gram",
+                    "200 gram"
+                ],
+                "status": "Còn hàng"
+            }
+        ]
+    },
+    {
+        "type": "Hoa quả tươi",
+        "data": [
+            {
+                "name": "Nho đỏ có hạt Peru",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_IWRUx3Gy6r2e8bQza60JmpnC.jpg",
+                "price": "139,000₫",
+                "size": [
+                    "2 kg",
+                    "1kg"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Thanh Long Ruột Trắng",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_lFRHywXuMl8lQk5Gqa7IgMjH.jpg",
+                "price": "29,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Sầu riêng Musang King Malaysia",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_XkcbgIvzkTIpzudfYpH1ugC1.jpg",
+                "price": "599,000₫",
+                "size": [
+                    "2 kg",
+                    "1kg"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Bưởi da xanh bọc lưới loại 1",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_XTHML2hePZZoIJNtmNUhQCX1.jpg",
+                "price": "59,000₫",
+                "size": [
+                    "2 kg",
+                    "1kg"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Táo xanh Granny Smith Mỹ size 100",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_iaW3B1XrOWuPSdxYABEdbftQ.jpg",
+                "price": "129,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cam Cara Mỹ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_fbVOna7sVrVwl9HNDMu4aFTS.jpg",
+                "price": "169,000₫",
+                "size": [
+                    "2 kg",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Nho đỏ kẹo Hello Úc",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_JZMhLhJJcvw7XWIaRlpnZJTX.jpg",
+                "price": "199,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Lê Hàn Quốc Size M",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_Qw7snp292jmRH4iUMn5Gc4Ob.jpg",
+                "price": "139,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Nho Xanh Sweet Globe Úc",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_SVTU81kP7gGTizKM1CeRsjVj.jpg",
+                "price": "150,000₫",
+                "size": [],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Mận xanh October Sun Úc",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_zJKHuJ5wheuaLAL29QnZyKsu.jpg",
+                "price": "194,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Táo đỏ Fuji Nhật Bản",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_nj1e09QbFG6UbNWUnVzvOVBn.jpg",
+                "price": "289,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Việt Quất New Zealand size Jumbo",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_TlTjhci3V4ysnIhlvBB8ceQb.jpg",
+                "price": "129,000₫",
+                "size": [],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Mận (Roi) Đỏ An Phước",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_1SkEs2aXEcAxzmQGtH6oZr5Q.jpg",
+                "price": "65,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Xuân đào ruột trắng Úc",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_YRCfyi2E1w9UO956yThZaSWm.jpg",
+                "price": "189,500₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Dâu Hàn Quốc size XL",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_bLkaO81Dkh9SXTPzHXKZk8Q1.jpg",
+                "price": "329,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Dâu Hàn Quốc",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_MXkBlI8qoEP2hCKAFNtT40do.jpg",
+                "price": "269,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Chà là vàng tươi Nam Phi",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_1xgVYZAqCAB4t2bXohL9okuS.jpg",
+                "price": "349,500₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            }
+        ]
+    },
+    {
+        "type": "Thực phẩm tươi sống",
+        "data": [
+            {
+                "name": "Ba rọi heo rút sườn C.P",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_WnD8zo2vQ46vCMRSe3ig4nJ5.jpg",
+                "price": "119,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram",
+                    "200 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Nạm bò Úc tươi Trung Đồng hút chân không",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_me84ECu0sxuUEGJodaQz6iJ6.jpg",
+                "price": "84,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram",
+                    "200 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Vai bò Úc tươi Trung Đồng hút chân không",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_KEhOiEC673Mtq8r67mcTYdl5.jpg",
+                "price": "120,000₫",
+                "size": [
+                    "250 gram",
+                    "500 gram",
+                    "200 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Tôm thẻ tươi đông lạnh",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_3BttlAEr4V0VwkapG2wrtYpz.jpg",
+                "price": "109,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Phi lê cá lóc bông thái lát",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_taBYsR2IO1mYa5o7v5UQ9a6M.jpg",
+                "price": "89,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Nghêu Hai Cồi",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_MdD7U0LZg5jkXkhHw83JwzOr.jpg",
+                "price": "105,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Nghêu Xanh",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_ItUb7f7RBOwgGAXslaC5iIE8.jpg",
+                "price": "49,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cua Hoàng Đế King Crab đỏ",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_T1mYbNKuElLuHctTt4xVwVle.jpg",
+                "price": "2,999,000₫",
+                "size": [
+                    "3kg",
+                    "5kg"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cá Hồi phi lê còn da Na Uy",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_w9HYe8LG9s5rdX3RiCgrzSku.jpg",
+                "price": "223,750₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Đầu thăn bò Úc Pacow",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_4xFrW0tdFyS2Iup66G9uHaYp.jpg",
+                "price": "226,000₫",
+                "size": [
+                    "2 kg",
+                    "1kg"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Phile ức gà tươi 3F",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_TRxWnYYZ4sBm6KexuLTlklW6.jpg",
+                "price": "41,000₫",
+                "size": [
+                    "2 kg",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            }
+        ]
+    },
+    {
+        "type": "Ngũ cốc",
+        "data": [
+            {
+                "name": "4/8 Hạt yến mạch cán mỏng Just Oats nguyên chất ăn liền gói",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_Pj6IzwD8fO4ALaBr4cL30hp6.jpg",
+                "price": "103,000₫",
+                "size": [
+                    "250 gram",
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Yến mạch ăn liền Quaker hộp 600g",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_kYynzeuRdamq8WFE4rkUbST6.jpg",
+                "price": "115,000₫",
+                "size": [
+                    "Nguyên bản",
+                    "Hoa quả tổng hợp"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Ngũ cốc dinh dưỡng Ohh Granola hộp 250g",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_ENxfb53meKpvt3N2nFW2Mj1B.jpg",
+                "price": "164,000₫",
+                "size": [
+                    "Super Power",
+                    "Nutty"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Ngũ cốc trái cây Calbee gói 700g",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_S3TAa8qJdnAFK8CzgnqvEVie.jpg",
+                "price": "280,000₫",
+                "size": [
+                    "Nguyên bản",
+                    "Caramel",
+                    "Hoa quả tổng hợp"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Bánh ngũ cốc Simba Choco Chips",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_oJNRBWJUW3ucuphPbiEBEb2I.jpg",
+                "price": "25,000₫",
+                "size": [
+                    "25 gram",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Ngũ cốc Nestlé Koko Krunch",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_9UiBnAWykiJYu7XmNPtkxsAy.jpg",
+                "price": "25,000₫",
+                "size": [
+                    "25 gram",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Mù tạt vàng Heinz",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_dHSHTWuqJU8VXsvROsTqmuQG.jpg",
+                "price": "79,000₫",
+                "size": [
+                    "Chai 200g",
+                    "Chai 500g"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Ngũ cốc dinh dưỡng Corn Flakes Kelloggs",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_8Ax5DOaOUynY8w6SUlREcrQx.jpg",
+                "price": "45,000₫",
+                "size": [
+                    "175 gram",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Ngũ cốc dinh dưỡng Coco Pops Kelloggs",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_TcOfXfoXaE1QdH3Fp71TL4sK.jpg",
+                "price": "99,000₫",
+                "size": [
+                    "250 gram",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Cơm cháy chà bông vị gà cay",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220324_QkM0Y9mwX4rExHMBs5ukeikw.jpg",
+                "price": "166,000₫",
+                "size": [
+                    "1kg",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            },
+            {
+                "name": "Ngũ cốc dinh dưỡng Frosties Kelloggs",
+                "imgPath": "https://pos.nvncdn.net/16a837-71503/ps/20220323_MD9vdyftUGrV4E4J6750upBd.jpg",
+                "price": "81,000₫",
+                "size": [
+                    "175 gram",
+                    "250 gram",
+                    "500 gram"
+                ],
+                "status": "Còn hàng"
+            }
+        ]
+    }
+]
